@@ -1,0 +1,11 @@
+/*
+Theme Name: My First Theme
+*/
+
+body {
+	background: green;
+}
+
+.site-header {
+	background-color: blue;
+}
